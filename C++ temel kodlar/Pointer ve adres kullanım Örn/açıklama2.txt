@@ -1,0 +1,1 @@
+pointer yardımıyla ilk verinin değeri değiştirilebilir (deference kullanımı)

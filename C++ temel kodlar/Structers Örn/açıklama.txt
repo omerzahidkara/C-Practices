@@ -1,0 +1,3 @@
+Nesne tabanlı programlamada struct(yapı) oluşturmak önemlidir.
+
+Örnekte araba hakkında bilgiler saklayan bir yapı oluşturulmnuş. Daha sonra saklnana bu nitelikler arabalar oluşturularak onlara atanmış.
